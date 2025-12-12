@@ -3,39 +3,39 @@
 </script>
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto text-center">
-  <h2 class="text-2xl font-bold mb-4">Works wherever you have meetings</h2>
+  <h2 class="text-2xl font-bold mb-4">Integrates with your existing tools</h2>
   <p class="text-gray-600 max-w-2xl mx-auto mb-12">
-    Recording works for calls across all providers. Whether you use Zoom, Google Meet, Slack Huddle, or Microsoft Teams, we'll get the notes.
+    Wilber connects seamlessly with your CRM, communication tools, and productivity apps. No need to change your workflow—we adapt to yours.
   </p>
   
   <div class="flex flex-wrap justify-center gap-8 md:gap-16 items-center mb-8">
-    <!-- Logos (Using colored circles/text as placeholders for icons) -->
-    <div class="w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center text-white font-bold">Z</div>
-    <div class="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center text-white font-bold">G</div>
-    <div class="w-12 h-12 bg-purple-600 rounded-xl flex items-center justify-center text-white font-bold">T</div>
-    <div class="w-12 h-12 bg-yellow-500 rounded-xl flex items-center justify-center text-white font-bold">S</div>
-    <div class="w-12 h-12 bg-black rounded-xl flex items-center justify-center text-white font-bold">W</div>
-    <div class="w-12 h-12 bg-cyan-500 rounded-xl flex items-center justify-center text-white font-bold">W</div>
-    <div class="w-12 h-12 bg-blue-700 rounded-xl flex items-center justify-center text-white font-bold">B</div>
+    <!-- CRM & Business Tool Icons -->
+    <div class="w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center text-white font-bold">SF</div>
+    <div class="w-12 h-12 bg-orange-500 rounded-xl flex items-center justify-center text-white font-bold">HS</div>
+    <div class="w-12 h-12 bg-green-600 rounded-xl flex items-center justify-center text-white font-bold">PD</div>
+    <div class="w-12 h-12 bg-purple-600 rounded-xl flex items-center justify-center text-white font-bold">S</div>
+    <div class="w-12 h-12 bg-black rounded-xl flex items-center justify-center text-white font-bold">N</div>
+    <div class="w-12 h-12 bg-blue-400 rounded-xl flex items-center justify-center text-white font-bold">AT</div>
+    <div class="w-12 h-12 bg-gray-700 rounded-xl flex items-center justify-center text-white font-bold">Z</div>
   </div>
   
-  <p class="text-xs text-gray-400">Amie works with any video call provider.</p>
+  <p class="text-xs text-gray-400">Wilber connects with 50+ business tools and platforms.</p>
   
   <div class="mt-20 max-w-4xl mx-auto text-left space-y-6 text-gray-600 text-sm">
     <p>
-      When you join meetings through Amie, we'll automatically record them. If you join them through eg. Google Calendar, we'll automatically ask you to start recording the call. We'll also auto-stop the recording.
+      When you connect Wilber to your CRM, we automatically sync all workflow outputs. Customer insights flow directly into Salesforce, HubSpot, or Pipedrive. Interview summaries appear in Notion. Action items sync to Slack.
     </p>
     <p>
-      If you want Amie to work fully in the background, you can enable fully-automatic recordings. This will record every call without you having to do anything.
+      Enable bi-directional sync to keep everything up-to-date automatically. Changes in your CRM trigger workflow updates in Wilber, and vice versa. No manual data entry required.
     </p>
     
     <div class="pt-8">
-      <h3 class="text-gray-900 font-bold text-lg mb-2">Customize the summary with private notes</h3>
+      <h3 class="text-gray-900 font-bold text-lg mb-2">AI-powered relationship intelligence</h3>
       <p>
-        Take notes in private, before or during the meeting. We'll then use those raw notes as focus points for the summary. You can define the headings we should use. List out key numbers as emphasis. Or use it to prepare the agenda.
+        Wilber learns from every customer interaction. Our AI identifies patterns across interviews, extracts key insights, and surfaces trends you might miss. The more you use it, the smarter it gets.
       </p>
       <p class="mt-4">
-        Private notes taking in the dedicated tab are not visible to anyone else. This makes them great for time-based notetaking.
+        Custom fields and data mappings ensure insights land exactly where you need them in your CRM. Configure once, automate forever.
       </p>
     </div>
   </div>
